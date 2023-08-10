@@ -6,12 +6,12 @@
 
 <h1>Registration Form</h1>
 
-!(logo){https://github.com/prajinpatil42/ServletRequest/blob/main/ServletForm.png}
+![logo](https://github.com/prajinpatil42/ServletRequest/blob/main/ServletForm.png)
 
 
 <h1>After Submission</h1>
 
-!(logo)(https://github.com/prajinpatil42/ServletRequest/blob/main/ServletFormsubmitted.png)
+![logo](https://github.com/prajinpatil42/ServletRequest/blob/main/ServletFormsubmitted.png)
 
 
 
